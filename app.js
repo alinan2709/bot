@@ -10,7 +10,7 @@ if (tg.MainButton.isVisible) {
 tg.MainButton.hide(); 
 } 
 else { 
-tg.MainButton.setText("Вывести информацию по овену"); 
+tg.MainButton.setText("Вывести информацию по Джеймсу Максвеллу"); 
 item = "1"; 
 tg.MainButton.show(); 
 } 
@@ -20,7 +20,7 @@ if (tg.MainButton.isVisible) {
 tg.MainButton.hide(); 
 } 
 else { 
-tg.MainButton.setText("Вывести информацию по тельцу"); 
+tg.MainButton.setText("Вывести информацию по Альберту Эйнштейну"); 
 item = "2"; 
 tg.MainButton.show(); 
 }  
